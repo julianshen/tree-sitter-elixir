@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-elixir
+module github.com/julianshen/tree-sitter-elixir
 
 go 1.23
 
